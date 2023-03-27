@@ -1,0 +1,11 @@
+blinky-boot/blinky_boot.bin
+blinky-boot/blinky_boot.elf
+blinky-boot/blinky_boot.list
+blinky-boot/blinky_boot.o
+blinky-boot/blinky_boot_crc.bin
+launchpad-boot/launchpad_boot.bin
+launchpad-boot/launchpad_boot.elf
+launchpad-boot/launchpad_boot.list
+launchpad-boot/launchpad_boot.o
+launchpad-boot/launchpad_boot_crc.bin
+mecrisp-stellaris-pico-core.list
