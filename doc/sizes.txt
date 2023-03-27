@@ -1,0 +1,5 @@
+
+6.2 megabytes for entire archive before using git for a repository of the same thing.
+
+This includes the upstream distribution file (hopefully unmodified; should check that).
+
