@@ -1,0 +1,10 @@
+Fri 22 Dec 19:41:30 UTC 2023
+
+  uf2 conversion of the .bin likely the next step to
+  upload to RP2040 target.
+
+  python script in (for example) Earle Philhower's
+  arduino-core likely was used in the past for this
+  exact task.
+
+end.
